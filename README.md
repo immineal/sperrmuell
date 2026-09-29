@@ -1,5 +1,11 @@
 # Sperrmüll Bonn
 
+> **The live map is no longer built from this repository.** linu.li builds
+> and deploys it from [`src/sperrmuell/`](https://github.com/immineal/linu-li/tree/main/src/sperrmuell)
+> in immineal/linu-li, which carries this repository's history. The
+> collection dates there are also refreshed every week. A change made only
+> here will not reach the site.
+
 A self-hosted, mobile-first map of Bonn's bulky-waste ("Sperrmüll")
 collection: the exact streets and collection-zone polygons scheduled for
 each date, built from bonnorange's official open data and OpenStreetMap
